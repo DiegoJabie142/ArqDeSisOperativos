@@ -87,6 +87,21 @@
         Libertad de redistribuir el software
         Libertad de redistribuir el software modificado
 
+- ¿Cuántas particiones primarias puedo tener? *
+
+        1 a 4
+- ¿Cuántas particiones Logicas puedo tener?
+
+        Todas las que entren en la particion extendida
+
+- La particion extendida es utilizable para almacenar datos? *
+        
+        No.
+
+- ¿Qué utilidad tiene particionar disco en lugar de solo crear directorios?
+
+        Facilita el mantenimiento del disco duro, la comprobación de errores o la optimización y desfragmentación de las unidades.
+        
 ---
 
 # Comandos
@@ -110,4 +125,16 @@
 - Actualizar la distribución.
 
         apt-get dist-upgrade –y
+         
+*****COMANDOS INFORMACION DEL SISTEMA*****
+*******************************************
+
+- ***arch***                 arquitectura del ordenador
+- ***uname -r***             version del kernel
+- ***unane -a***             sistema operativo, usuario, kernel
+- ***cat /proc/cpuinfo***    informacion sobre la CPU
+- ***cat /proc/meminfo***    verifica uso de la memoria RAM
+- ***free -m***              muestra el estado y uso de la RAM
+- ***cat /proc/net/dev***    adaptadores de red
+- ***cat /proc/mounts***     sistema de archivos montado
         
