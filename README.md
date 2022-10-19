@@ -137,4 +137,21 @@
 - ***free -m***              muestra el estado y uso de la RAM
 - ***cat /proc/net/dev***    adaptadores de red
 - ***cat /proc/mounts***     sistema de archivos montado
-        
+- ***cat /proc/mounts***     sistema de archivos montado
+- ***sudo fdisk -l***        lista los discos y partciones del sistema
+- ***lsblk***                lista los discos y particiones del sistema
+ 
+ 
+******COMANDOS NAVEGACION DEL SISTEMA******
+*******************************************
+
+- ***cd /home/usuario***      lleva hasta la ruta indicada, ejemplo usuario
+- ***cd..***                  retrocede un nivel de jerarquia de directorios
+- ***cd../..***               retrocede dos niveles
+- ***cd***                    lleva al directorio raiz
+- ***cd ~usuario***           lleva al directorio principal del usuario indicado
+- ***cd -***                  lleva al direcotrio anterior
+- ***pwd***                   mostrara la ruta del directorio actual
+- ***ls***                    muestra los archivos y carpetas
+- ***ls -l***                 muestra el detalle de los archivos y carpetas
+- ***ls -a***                 muestra los archivos ocultos
