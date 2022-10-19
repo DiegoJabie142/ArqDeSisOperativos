@@ -19,6 +19,12 @@
         Es el encargado de transformar el código fuente de la aplicación en código de máquina
         que les posible de interpretar por el sistema.
 
+- ¿Qué es virtualizar? 
+ 
+        Es la abstraccion de componentes fisicos en componentes logicos, se usa para ejecutar 
+        varios sistemas operativos y aplicaciones en un solo servidor, por ejemplo.
+
+
 - ¿Cuál sería el kernel de Windows?
 
         El kernel de Windows es cerrado.
