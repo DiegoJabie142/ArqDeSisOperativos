@@ -6,7 +6,9 @@
 
 - ¿Qué es un framework?
 
-        Un framework es un esquema o marco de trabajo que ofrece una estructura base para elaborar un proyecto con objetivos específicos, una especie de plantilla que sirve como punto de partida para la organización y desarrollo de software.
+        Un framework es un esquema o marco de trabajo que ofrece una estructura 
+        base para elaborar un proyecto con objetivos específicos, una especie de plantilla 
+        que sirve como punto de partida para la organización y desarrollo de software.
 
 - Enumere, leguajes interpretados que haya visto hasta ahora en la carrera
 
@@ -14,7 +16,8 @@
 
 - ¿Qué es un compilador?
 
-        Es el encargado de transformar el código fuente de la aplicación en código de máquina que les posible de interpretar por el sistema.
+        Es el encargado de transformar el código fuente de la aplicación en código de máquina
+        que les posible de interpretar por el sistema.
 
 - ¿Cuál sería el kernel de Windows?
 
@@ -26,7 +29,8 @@
 
 - ¿Cuáles son los elementos fundamentales de un sistema operativo?
 
-        Los elementos fundamentales son: Kernel, terminal, interfaz gráfica, librerías y programas varios.
+        Los elementos fundamentales son: Kernel, terminal, interfaz gráfica, librerías y 
+        programas varios.
 
 - ¿Qué es el GPL?
 
@@ -50,7 +54,8 @@
 
 - ¿Qué estructura de directorios respeta linux y qué implica ésto?
 
-        Linux respeta la estructura de directorios FHS, ésto implica estandarizar la jerarquía de directorios.
+        Linux respeta la estructura de directorios FHS, ésto implica estandarizar la jerarquía 
+        de directorios.
 
 - ¿Cuál es path por excelencia donde se encuentran los archivos de configuración globales de Linux?
 
@@ -60,7 +65,8 @@
 
         /$ var/log/
 
-- Se pretende generar un archivo vacío (0 byte). Tílde los comandos correctos (tener en cuenta que se ejecutan desde un usuario sin privilegios de root).
+- Se pretende generar un archivo vacío (0 byte). 
+- Tílde los comandos correctos (tener en cuenta que se ejecutan desde un usuario sin privilegios de root).
 
         .touch /tmp/archivo_vacio
         .cat /dev/null > /tmp/archivo_vacio
