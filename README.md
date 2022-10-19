@@ -79,6 +79,12 @@
 - ¿Qué es el software libre?
 
         El software libre es aquel que expone su código y no establece restricciones.
+        
+- ¿Cuáles son las libertades que establece la  Free Software Foundation o Fundación por el Software Libre?
+        Libertad de usar el software para cualquier propósito
+        Libertad de examinar el código fuente y modificarlo para adecuarse a las necesidades
+        Libertad de redistribuir el software
+        Libertad de redistribuir el software modificado
 
 ---
 
