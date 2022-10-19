@@ -17,7 +17,7 @@
 - ¿Qué es un compilador?
 
         Es el encargado de transformar el código fuente de la aplicación en código de máquina
-        que les posible de interpretar por el sistema.
+        que le es posible de interpretar por el sistema.
 
 - ¿Qué es virtualizar? 
  
