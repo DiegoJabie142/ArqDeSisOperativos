@@ -76,7 +76,9 @@
 
         .touch /tmp/archivo_vacio
         .cat /dev/null > /tmp/archivo_vacio
+- ¿Qué es el software libre?
 
+        El software libre es aquel que expone su código y no establece restricciones.
 
 ---
 
