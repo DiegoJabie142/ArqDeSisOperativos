@@ -141,8 +141,9 @@
 - ***sudo fdisk -l***        lista los discos y partciones del sistema
 - ***lsblk***                lista los discos y particiones del sistema
 - ***top -U user***          lista el consumo de ram de los procesos del usuario indicado
-- ***du -h directorio***        muestra cuánto ocupa cada archivo dentro de un directorio
-- ***du sh***                muestra cuánto espacio ocupa un directorio en total            
+- ***du -h directorio***     muestra cuánto ocupa cada archivo dentro de un directorio
+- ***du sh***                muestra cuánto espacio ocupa un directorio en total
+- ***cat /proc/cpuinfo***    muestra la información del cpu 
  
 ******COMANDOS NAVEGACION DEL SISTEMA******
 *******************************************
