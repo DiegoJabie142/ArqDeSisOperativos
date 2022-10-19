@@ -144,6 +144,8 @@
 - ***du -h directorio***     muestra cuánto ocupa cada archivo dentro de un directorio
 - ***du sh***                muestra cuánto espacio ocupa un directorio en total
 - ***cat /proc/cpuinfo***    muestra la información del cpu 
+- ***sudo mkfs.ext4 /dev/particion*** formatea la partición
+- ***sudo mount /dev/particion directorio*** monta la partición en el lugar especificado 
  
 ******COMANDOS NAVEGACION DEL SISTEMA******
 *******************************************
