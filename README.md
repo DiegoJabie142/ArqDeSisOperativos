@@ -21,7 +21,7 @@
 
 - ¿Qué es virtualizar? 
  
-        Es la abstraccion de componentes fisicos en componentes logicos, se usa para ejecutar 
+        Es la abstraccion de componentes fisicos en componentes lógicos, se usa para ejecutar 
         varios sistemas operativos y aplicaciones en un solo servidor, por ejemplo.
 
 
