@@ -158,3 +158,9 @@
 - ***ls***                    muestra los archivos y carpetas
 - ***ls -l***                 muestra el detalle de los archivos y carpetas
 - ***ls -a***                 muestra los archivos ocultos
+
+******EJEMPLO COMANDO HEAVY******
+*******************************************
+- ***echo -n "Marca=" > cpu.txt && cat /proc/cpuinfo | grep vendor | uniq | cut -d ":" -f2 >> cpu.txt && echo -n "Modelo de CPU=" >> cpu.txt && cat /proc/cpuinfo | grep model | grep name | uniq | cut -d ":" -f2 >> cpu.txt && echo -n "Frecuencia=" >> cpu.txt && cat /proc/cpuinfo | grep MHz | uniq | cut -d ":" -f2 >> cpu.txt && echo -n "Procesadores=" >> cpu.txt && cat /proc/cpuinfo | grep cores | uniq | cut -d ":" -f2 >> cpu.txt***
+        
+        Guarda la marca, el modelo del cpu, la frecuencia del cpu y la cantidad de procesadores.
